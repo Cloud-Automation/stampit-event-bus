@@ -1,0 +1,27 @@
+{
+  "name": "stampit-event-bus",
+  "version": "0.1.0",
+  "description" : "A simple eventbus interface for stampit.",
+  "keywords" : ["stampit", "event", "events", "eventbus"],
+  "homepage" : "https://github.com/Cloud-Automation/stampit-event-bus",
+  "license" : "MIT",
+  "author" : {
+    "name" : "Stefan Pöter",
+    "email" : "stefan.poeter@cloud-automation.de",
+    "url" : "http://www.cloud-automation.de"
+  },
+  "main" : "./src/stampit-event-bus.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Cloud-Automation/stampit-event-bus.git"
+  },
+  "dependencies": {
+    "stampit": "^2.1.1"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  },
+  "scripts": {
+    "test": "jasmine"
+  }
+}
