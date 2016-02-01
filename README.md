@@ -8,16 +8,9 @@
 
     var EventBus = require('stampit-event-bus');
 
-    var stamp = EventBus().init(function () {
-        
-            // see API
-        
-        });
-
     var stamp = stampit().compose(EventBus).init(function () {
         
-        
-        });
+    });
 
 ## API
 

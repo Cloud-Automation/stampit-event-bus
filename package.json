@@ -1,6 +1,6 @@
 {
   "name": "stampit-event-bus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description" : "A simple eventbus interface for stampit.",
   "keywords" : ["stampit", "event", "events", "eventbus"],
   "homepage" : "https://github.com/Cloud-Automation/stampit-event-bus",
